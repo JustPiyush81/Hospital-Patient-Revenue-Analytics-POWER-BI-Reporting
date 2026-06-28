@@ -5,4 +5,14 @@ The dashboard enables users to monitor patient demographics, doctor performance,
 
 The project demonstrates data cleaning, data modeling, dashboard design, and business intelligence reporting using Power BI.
 
+## 🚀 Features
 
+- Interactive Power BI Dashboard
+- Hospital Performance Overview
+- Patient Demographics Analysis
+- Doctor & Department Analysis
+- Billing & Revenue Analysis
+- Insurance Analysis
+- Payment Status Tracking
+- Dynamic Filters & Slicers
+- Business-Friendly KPIs
